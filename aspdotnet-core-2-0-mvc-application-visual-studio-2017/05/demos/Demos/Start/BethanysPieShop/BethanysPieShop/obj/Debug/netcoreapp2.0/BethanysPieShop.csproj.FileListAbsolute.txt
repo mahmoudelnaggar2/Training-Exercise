@@ -1,0 +1,11 @@
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.deps.json
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\bin\Debug\netcoreapp2.0\BethanysPieShop.pdb
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.dll
+C:\Dropbox\Work\PluralSight\aspnetcore-intro\aspdotnet-core-2-0-mvc-application-visual-studio-2017-m3\Demos\End\BethanysPieShop\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.pdb
